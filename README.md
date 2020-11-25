@@ -15,7 +15,8 @@
 
 ## 接口
 > 接口：https://api.globus.furniture/forex <br>
-> 功能：获取汇率
+> 功能：获取汇率 <br>
+> 请求方式：GET
 
 接口返回示例：
 ```json
