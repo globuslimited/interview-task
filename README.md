@@ -8,6 +8,8 @@
 
 使用 hooks 方式
 
+不能直接更改 state ，只能使用 setState 更改 state
+
 完成后，给我们发送可以看的链接，例如 github，gitee。可以告诉我们需要多少时间。
 
 ## UI
