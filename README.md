@@ -15,6 +15,8 @@
 ## UI
 ![](./images/1.png)
 
+(样式不必与此图一模一样，内容相同即可)
+
 ## 接口
 > 接口：https://api.globus.furniture/forex <br>
 > 功能：获取汇率 <br>
