@@ -18,7 +18,7 @@
 (样式不必与此图一模一样，内容相同即可)
 
 ## 接口
-> 接口：https://api.exchangerate.host/latest?base=CNY <br>
+> 接口：https://api.exchangerate.host/latest?base=CNY&symbols=USD,RUB,EUR <br>
 > 功能：获取汇率 <br>
 > 请求方式：GET
 
