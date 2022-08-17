@@ -20,6 +20,25 @@
 > 功能：获取汇率 <br>
 > 请求方式：GET
 
+要是接口访问不到那就用这个函数模仿情况
+````ts
+const fetchForexRates = () => {
+    return new Promise((resolve) => {
+        setTimeout(() => {
+            resolve({
+                success: true,
+                base: "USD",
+                date: "2022-08-16",
+                rates: {
+                    CNY: 6.781836,
+                    RUB: 61.263275,
+                },
+            });
+        }, 200);
+    })
+};
+````
+
 ## 任务描述
 
 ### 第一部分
