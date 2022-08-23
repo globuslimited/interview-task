@@ -13,6 +13,8 @@
 
 使用 react
 
+如果会使用 typescript，请使用 typescript 进行编写
+
 不可以使用class组件，只能使用函数组件
 
 使用 hooks 方式
